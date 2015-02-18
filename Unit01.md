@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS402: Project Management"
+course_description: "An examination of the steps in organizing and planning the processes that a business uses to address tasks and meet deadlines, with particular attention to the role of project managers as they initiate, plan, execute, control, and terminate projects."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Project Management Defined** <span id="1"></span> 
 *According to* A Guide to the Project Management Body of Knowledge
 *(2008), a project is “a temporary endeavor undertaken to create a

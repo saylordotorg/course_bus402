@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS402: Project Management"
+course_description: "An examination of the steps in organizing and planning the processes that a business uses to address tasks and meet deadlines, with particular attention to the role of project managers as they initiate, plan, execute, control, and terminate projects."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Project Implementation and Closure** <span id="6"></span> 
 
 *<span lang="EN-US">The final phase of the project life cycle is the
